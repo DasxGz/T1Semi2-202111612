@@ -1,5 +1,5 @@
 # Tarea #1 — Limpieza y Análisis Inicial de Datos con Python y Pandas
-**Seminario de Sistemas 2 | Universidad San Carlos de Guatemala**
+**T1-DanielGuzman-202111612 **
 
 ---
 
